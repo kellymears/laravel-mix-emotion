@@ -1,0 +1,17 @@
+{
+  "name": "laravel-mix-emotion",
+  "version": "0.1.0",
+  "description": "Laravel mix extension that configures environment for Emotion.",
+  "main": "index.js",
+  "keywords": [
+    "laravel",
+    "laravel mix",
+    "mix",
+    "emotion",
+    "babel",
+    "tailwindcss"
+  ],
+  "author": "Kelly Mears",
+  "license": "MIT",
+  "homepage": "https://github.com/kellymears/laravel-mix-emotion"
+}
